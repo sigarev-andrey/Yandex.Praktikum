@@ -10,5 +10,5 @@
 **Стек:** pandas, statsmodels, sklearn, ipywidgets
 
 #### [Проект 3.](https://github.com/sigarev-andrey/Yandex.Praktikum/tree/master/Customer%20churn)  
-**Задача:** Спрогнозировать отток клиентов телеком оператора на следующий месяц.
+**Задача:** Спрогнозировать отток клиентов телеком оператора на следующий месяц.  
 **Стек:** pandas, seaborn, numpy, catboost, sklearn, lightgbm
